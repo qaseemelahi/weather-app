@@ -1,0 +1,4 @@
+export const screens = {
+  CURRENT_WEATHER: 'CURRENT_WEATHER',
+  WEATHER_DETAIL: 'WEATHER_DETAIL'
+}
